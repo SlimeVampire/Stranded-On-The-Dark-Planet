@@ -1,37 +1,13 @@
 # Stranded-On-The-Dark-Planet
 Official Stranded on the Dark Planet Wiki and Bug Tracker
 
-PACK DESCRIPTION : Stranded on the Dark planet is your typical Haxon pack with a bi
+# Pack Description
+Stranded on the Dark planet is your typical Haxon pack with a bit of a spice to it. Adding features from the abandoned pack "Emfylios" to the basic idea of  "Stranded on Earth". This pack has a lot to offer, from an immersive progression and 90% custom world gen. Offers a fun experience to even the most experienced players as you struggle to survive in a desolate wasteland doomed for failure. On top of a super dark wasteland you have to deal with super deadly organic like robots. A nice feature is that as you play and progress it will be harder and harder to survive and keep your base in tact.
 
+# R3K - STREAMER / SR DEV / TESTER
 
-
-
-
-
-
--= A Porkchop Packs Modpack
-
--= Sponsored By Haxon 2.0 Modded Gaming
-
-
-Streamers:
-twitch.tv/the_elder_sign
 twitch.tv/r_3_k
-twitch.tv/drekrok
-twitch.tv/slimevampire
-twitch.tv/davqvist
 
-Haxon Staff:
-Owner / Founder : SlimeVampire
-Lead Developer : SirPorkchops
-Sr Developer: R_3_K
-Beta Tester : DerickPancakes
-Beta Tester : Kirito
+# The_Elder_Sign - Streamer / Tester
 
-Porkchop Packs Staff
-Owner / Founder : SirPorkchops
-Developer : SlimeVampire
-
-Discords:
-Haxon 2.0 : https://discord.gg/kwBxNES&nbsp;
-Porkchop Packs : https://discord.gg/WP2PWFd
+twitch.tv/the_elder_sign
